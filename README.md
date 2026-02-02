@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 SMI Reborn
+# SMI Reborn
 
 <img src="public/icon.ico" alt="SMI Reborn Logo" width="120" />
 
