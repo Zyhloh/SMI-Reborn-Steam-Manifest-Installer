@@ -27,7 +27,7 @@ This software is provided for **educational purposes only**. The developers are 
 
 ## 📥 Download
 
-Get the latest release from the [Releases](https://github.com/Zyhloh/smi-reborn/releases) page.
+Get the latest release from the [Releases](https://github.com/Zyhloh/SMI-Reborn-Steam-Manifest-Installer/releases/) page.
 
 | Platform | Download |
 |----------|----------|
