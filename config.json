@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "SMI Reborn",
+    "version": "0.0.1-beta",
+    "author": "Zyhloh"
+  },
+  "window": {
+    "width": 1200,
+    "height": 800,
+    "minWidth": 800,
+    "minHeight": 600,
+    "frame": true
+  },
+  "dev": {
+    "openDevTools": false
+  }
+}
